@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-    <?php include("layouts/header.php"); ?>
+<html lang="en">
+    <?php include('layouts/header.php'); ?>
 <body>
-    <form id="signo-form" method="POST" action="show_zodiac_sign.php">
+    <form action="show_zodiac_sign.php" method="POST">
         <label for="dataNascimento">Data de Nascimento:</label>
         <input type="date" id="dataNascimento" name="dataNascimento" required>
-        <button type="submit">Verificar Signo</button>
+        <input type="submit" value="Enviar">
+    </form>
 </body>
 </html>

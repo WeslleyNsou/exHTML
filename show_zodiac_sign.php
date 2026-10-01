@@ -1,6 +1,6 @@
 <?php
-include('layouts/header.php');
+     include('header.php'); 
 
-$data_nascimento = $_POST['dataNascimento'];
-$signos = simplexml_load_file("signos.xml");
+    $data_nascimento = $_POST['data_nascimento'];
+    $signos = simplexml_load_file("signos.xml");
 ?>
