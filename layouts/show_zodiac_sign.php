@@ -1,5 +1,5 @@
 <?php 
-include('layouts/header.php'); 
+include('header.php'); 
 
 $data_nascimento = $_POST['dataNascimento'];
 
