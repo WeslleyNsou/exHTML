@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+    <signos>
+
+        <signo>
+            <signoNome>Aries</signoNome>
+            <dataInicio>21 de marzo</dataInicio>
+            <dataFin>19 de abril</dataFin>
+            <descricao> loren10 </descricao>
+        </signo> 
+
+        <signo>
+            <signoNome>Tauro</signoNome>
+            <dataInicio>20 de abril</dataInicio>
+            <dataFin>20 de mayo</dataFin>
+            <descricao>Signo de tierra, paciente y determinado.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Géminis</signoNome>
+            <dataInicio>21 de mayo</dataInicio>
+            <dataFin>20 de junio</dataFin>
+            <descricao>Signo de aire, curioso y comunicativo.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Cáncer</signoNome>
+            <dataInicio>21 de junio</dataInicio>
+            <dataFin>22 de julio</dataFin>
+            <descricao>Signo de agua, sensible y protector.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Leo</signoNome>
+            <dataInicio>23 de julio</dataInicio>
+            <dataFin>22 de agosto</dataFin>
+            <descricao>Signo de fuego, creativo y generoso.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Virgo</signoNome>
+            <dataInicio>23 de agosto</dataInicio>
+            <dataFin>22 de septiembre</dataFin>
+            <descricao>Signo de tierra, analítico y responsable.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Libra</signoNome>
+            <dataInicio>23 de septiembre</dataInicio>
+            <dataFin>22 de octubre</dataFin>
+            <descricao>Signo de aire, equilibrado y diplomático.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Escorpio</signoNome>
+            <dataInicio>23 de octubre</dataInicio>
+            <dataFin>21 de noviembre</dataFin>
+            <descricao>Signo de agua, intenso y apasionado.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Sagitario</signoNome>
+            <dataInicio>22 de noviembre</dataInicio>
+            <dataFin>21 de diciembre</dataFin>
+            <descricao>Signo de fuego, aventurero y optimista.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Capricornio</signoNome>
+            <dataInicio>22 de diciembre</dataInicio>
+            <dataFin>19 de enero</dataFin>
+            <descricao>Signo de tierra, disciplinado y ambicioso.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Acuario</signoNome>
+            <dataInicio>20 de enero</dataInicio>
+            <dataFin>18 de febrero</dataFin>
+            <descricao>Signo de aire, independiente e innovador.</descricao>
+        </signo>
+
+        <signo>
+            <signoNome>Piscis</signoNome>
+            <dataInicio>19 de febrero</dataInicio>
+            <dataFin>20 de marzo</dataFin>
+            <descricao>Signo de agua, intuitivo y compasivo.</descricao>
+        </signo>
+
+    </signos>
+    
