@@ -1,87 +1,87 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
     <signos>
 
         <signo>
             <signoNome>Aries</signoNome>
             <dataInicio>21/03</dataInicio>
-            <dataFin>19/04</dataFin>
+            <dataFim>19/04</dataFim>
             <descricao> loren10 </descricao>
         </signo> 
 
         <signo>
             <signoNome>Tauro</signoNome>
             <dataInicio>20/04</dataInicio>
-            <dataFin>20/05</dataFin>
+            <dataFim>20/05</dataFim>
             <descricao>Signo de tierra, paciente y determinado.</descricao>
         </signo>
 
         <signo>
             <signoNome>Géminis</signoNome>
             <dataInicio>21/05</dataInicio>
-            <dataFin>20/06</dataFin>
+            <dataFim>20/06</dataFim>
             <descricao>Signo de aire, curioso y comunicativo.</descricao>
         </signo>
 
         <signo>
             <signoNome>Cáncer</signoNome>
             <dataInicio>21/06</dataInicio>
-            <dataFin>22/07</dataFin>
+            <dataFim>22/07</dataFim>
             <descricao>Signo de agua, sensible y protector.</descricao>
         </signo>
 
         <signo>
             <signoNome>Leo</signoNome>
             <dataInicio>23/07</dataInicio>
-            <dataFin>22/08</dataFin>
+            <dataFim>22/08</dataFim>
             <descricao>Signo de fuego, creativo y generoso.</descricao>
         </signo>
 
         <signo>
             <signoNome>Virgo</signoNome>
             <dataInicio>23/08</dataInicio>
-            <dataFin>22/09</dataFin>
+            <dataFim>22/09</dataFim>
             <descricao>Signo de tierra, analítico y responsable.</descricao>
         </signo>
 
         <signo>
             <signoNome>Libra</signoNome>
             <dataInicio>23/09</dataInicio>
-            <dataFin>22/10</dataFin>
+            <dataFim>22/10</dataFim>
             <descricao>Signo de aire, equilibrado y diplomático.</descricao>
         </signo>
 
         <signo>
             <signoNome>Escorpio</signoNome>
             <dataInicio>23/10</dataInicio>
-            <dataFin>21/11</dataFin>
+            <dataFim>21/11</dataFim>
             <descricao>Signo de agua, intenso y apasionado.</descricao>
         </signo>
 
         <signo>
             <signoNome>Sagitario</signoNome>
             <dataInicio>22/11</dataInicio>
-            <dataFin>21/12</dataFin>
+            <dataFim>21/12</dataFim>
             <descricao>Signo de fuego, aventurero y optimista.</descricao>
         </signo>
 
         <signo>
             <signoNome>Capricornio</signoNome>
             <dataInicio>22/12</dataInicio>
-            <dataFin>19/01</dataFin>
+            <dataFim>19/01</dataFim>
             <descricao>Signo de tierra, disciplinado y ambicioso.</descricao>
         </signo>
 
         <signo>
             <signoNome>Acuario</signoNome>
             <dataInicio>20/01</dataInicio>
-            <dataFin>18/02</dataFin>
+            <dataFim>18/02</dataFim>
             <descricao>Signo de aire, independiente e innovador.</descricao>
         </signo>
 
         <signo>
             <signoNome>Piscis</signoNome>
             <dataInicio>19/02</dataInicio>
-            <dataFin>20/03</dataFin>
+            <dataFim>20/03</dataFim>
             <descricao>Signo de agua, intuitivo y compasivo.</descricao>
         </signo>
 

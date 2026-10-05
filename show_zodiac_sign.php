@@ -1,13 +1,14 @@
 <?php
-     include('header.php'); 
-
+     include('layouts/header.php'); 
+    
      //Recebe a data de nascimento do formulário
-    $data_nascimento = $_POST['data_nascimento'];
+    $data_nascimento = $_POST['dataNascimento'];
 
     //Transforma a data recebita(dd/mm/yyyy) para o formato de comparação (dd/mm)
     $data_objeto = new DateTime($data_nascimento);
     $dia_mes_nascimento = $data_objeto->format('d/m');
 
+     //Carrega o arquivo XML
     $signos = simplexml_load_file("signos.xml");
 
     //Loop para percorrer cada signo no arquivo XML
